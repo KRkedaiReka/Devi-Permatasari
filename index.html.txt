@@ -1,2 +1,5 @@
 <!DOCTYPE html>
-<html></html>
+<html>
+<head> <title>SEMANGAT</title> </head>
+<body> <h1>Jangan Lupa Belajar Ya</h1></body>
+</html>
